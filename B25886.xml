@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a citizen of London from his friend in the country to which is added, an abstract of Mr. Papillon's trial.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25886</idno><idno type="EEBO-CITATION">27394178</idno>
+  <idno type="VID">205735</idno>
+  <idno type="EEBO-PROQUEST">2240893094</idno>
+  
+            <idno type="STC">Wing L1631A</idno>
+            <idno type="OCLC">27394178</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a citizen of London from his friend in the country to which is added, an abstract of Mr. Papillon's trial.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, Anno Angliæ Salutis primo, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Letter contains heading date: Octob. 21st, 1707.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Papillon, Thomas, 1623-1702.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205735:1"/>
+            <pb n="1" facs="tcp:205735:1"/>
+            <head>A Letter to a <hi>Citizen</hi> of <hi>LONDON,</hi> from his Friend in the <hi>Country.</hi> To which is added, An Abstract of Mr. PAPILLON<hi>'s</hi> Trial.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>Octob.</hi> 21st, 1707.</p>
+            <p>YOU having formerly very <hi>severely,</hi> but yet <hi>justly,</hi> blam'd <hi>ƲS</hi> in the Country for our too great Remissness, in the Choice of our Members of Parliament: I hope therefore you will excuse my Plainness, if I tell you, that tho' the Citizens of <hi>London</hi> are invested with many valuable Priviledges beyond what <hi>We</hi> in the Country can say Claim too; yet <hi>They</hi> have <hi>none</hi> that exempts <hi>them</hi> from the <hi>just</hi> Censure of all <hi>wise</hi> Observers, if <hi>they</hi> should be guilty of <hi>that Fault</hi> so often charged upon us.</p>
+            <p>To avoid which, I hope you will wisely consider the Qualifications of all such as are, or may be offer'd to your Choice, in the approaching Election: And if there shall appear to be any, that have been <hi>Tools</hi> to Oppress their Fellow-Citizens in former Reigns, by <hi>Ʋnjust Verdicts of Ten Thousand Pounds</hi> Damage, when not one Groat appear'd: Or, that have made <hi>false</hi> Returns (when Sheriffs) of Members to serve in Parlia<g ref="char:EOLhyphen"/>ment: Or, when in Parliament have voted with a <hi>corrupt</hi> Party to the Injury of some of the <hi>Best</hi> Patriots of their Country. I say, if <hi>any such</hi> shall appear, I hope as you value the Reputation of being Citizens of the <hi>Grand Metropolis</hi> of <hi>Europe,</hi> and would be thought to be the most Dutiful Subjects to the <hi>Greatest,</hi> as well as the <hi>Best</hi> of Queens, you will reject them, as unfit for your Favour. And since you are not barren of Men, of the most consummate Characters, let such a Man have your Vote, as you wou'd not be thought to sully the Memory of that <hi>truly Ex<g ref="char:EOLhyphen"/>cellent</hi> Magistrate, whose Vacancy you are now to supply, and in whose Choice you have at all Times had not only <hi>Security,</hi> but the greatest Honour in the Esteem of all good Men. And remember that <hi>He</hi> is fit<g ref="char:EOLhyphen"/>test to serve <hi>you,</hi> that can bestow the <hi>Most</hi> Time in your Service; as cer<g ref="char:EOLhyphen"/>tainly
+<pb n="2" facs="tcp:205735:2"/>one out of the <hi>Chair</hi> is best able to do, without robbing you in the Management of the Government of the City.</p>
+            <p>I shall say no more at present, being prevented by a little Book, this Day come to my Hands, Entituled, <hi>The Display of TYRANNY,</hi> Part the 1st, where in Fifteen Pages, you have the Account of the Tryal of that Worthy and Eminent Citizen, <hi>Tho. Papillon</hi> Esq; <hi>viz.</hi> from Page 230 to Page 245; which for your further Satisfaction I shall here abstract, and the rather because of a very False, Malicious and Scandalous Report, to the Prejudice of a very Valuable Gentleman [A Candidate in your Election] I mean Sir <hi>John Buckworth,</hi> who hath been reported to be one of that Jury, when as if I am not misinform'd, he was then in <hi>Turkey,</hi> and not of Age enough, <hi>(if here)</hi> nor of <hi>Principles</hi> sufficient to recommend him to that Service.</p>
+            <p>This Trial commenced at <hi>Guild-hall, Nov.</hi> 6th, 1684. before Sir <hi>G. Jefferies,</hi> Lord Chief Justice of the <hi>King</hi>'s <hi>Bench</hi> and is as followeth.</p>
+            <div type="part">
+               <p>MR. <hi>Papillon</hi> having been duly Elected one of the Sheriffs of <hi>London</hi> and <hi>Middlesex,</hi> he brought a Writ of <hi>Mandamus</hi> out of the Court of <hi>King</hi>'s <hi>Bench,</hi> to command the <hi>Mayor</hi> and <hi>Aldermen</hi> to swear him into the Office; <hi>that</hi> being disobeyed, he is advised by his <hi>Council,</hi> that he is entituled to an Action at Law for the Wrong done him; he sends in a respectful Way, to the <hi>Mayor</hi> and <hi>Aldermen,</hi> requesting them to give voluntary Appearances to his Action; THAT being refused, he proceeds by a Legal Process to bring them to answer him at Law: Whereupon Sir <hi>William Pritchard,</hi> being arrested by the <hi>Coroner</hi> of <hi>London,</hi> to whom the <hi>King</hi>'s <hi>Writ</hi> was directed, and detained some Hours, upon his Refusal to give an Appearance to Mr. <hi>Papillon</hi>'s Action; Sir <hi>William</hi> brings an Acti<g ref="char:EOLhyphen"/>on against him for thus arresting him; and demands 10000 <hi>l. Damages,</hi> wherein he committed a great over-sight, for had he ask'd 100000 <hi>l.</hi> (the usual Damages given in that Day) he had not failed of it, with the following Jury, which tryed the Cause.</p>
+               <list>
+                  <item>
+                     <hi>Bartholomew Ferryman,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Blackmore,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Symonds,</hi>
+                  </item>
+                  <item>
+                     <hi>William Whatton,</hi>
+                  </item>
+                  <item>
+                     <hi>John Greene,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Amy,</hi>
+                  </item>
+                  <item>
+                     <hi>Joseph Baggs,</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Chandler,</hi>
+                  </item>
+                  <item>
+                     <hi>John Reynolds,</hi>
+                  </item>
+                  <item>
+                     <hi>John Allen,</hi>
+                  </item>
+                  <item>
+                     <hi>Joseph Caine,</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Wythers</hi> Junior.</item>
+               </list>
+               <p>Mr. <hi>Mundy</hi> opened the <hi>Declaration,</hi> to this Effect, That the <hi>Plaintiff</hi> be<g ref="char:EOLhyphen"/>ing <hi>Lord Mayor,</hi> and to attend that Office in the diligent Government
+<pb n="3" facs="tcp:205735:2"/>of the <hi>City,</hi> The Defendant envying the happy Estate of the <hi>Plaintiff,</hi> and contriving unjustly to disturb him in the Execution of his Office; did to vex him, <hi>(not having any probable Cause of Action against him) malici<g ref="char:EOLhyphen"/>ously</hi> prosecute the <hi>King</hi>'s <hi>Writ</hi> out of the Court of <hi>Kings' Bench</hi> against him; directed to the <hi>Coroner</hi> of <hi>London, commanding him to take Sir</hi> William Pritchard <hi>at Mr.</hi> Papillon's <hi>Suit, in an Action of Trespass;</hi> and did procure Mr. <hi>John Brome,</hi> the <hi>Coroner,</hi> to arrest him, and that he was detained in Custody Six Hours, to the Disgrace and Scandal of the <hi>Plaintiff</hi> and of his <hi>Office:</hi> Whereas in Fact, <hi>he had not any just Cause of Action against him,</hi> to his Damage 10000 <hi>l.</hi>
+               </p>
+               <p>Then the <hi>Attorney General</hi> told the Jury, That the Action was brought to vindicate the Honour of the <hi>Chair,</hi> from such Affronts, as these, which in no Age ('till our Times of <hi>Faction</hi> and <hi>Confusion</hi>) it ever met with: And he said, we shall shew you, that there lay a further Malice in this Case, and that there was a Design in it against the <hi>Government:</hi> This Design was laid to carry on the great <hi>Plot,</hi> against the Lives of the <hi>King</hi> and the <hi>Duke;</hi> and for Subversion of the <hi>Government</hi>—The End of this Business was, to have had a Commotion, for the accomplishing their great <hi>Conspiracy;</hi> but <hi>Parturiunt Montes:</hi> For after this Tragical Out-cry, their own Witnesses only proved, that Mr. <hi>Brome</hi> the <hi>Coroner,</hi> went to my <hi>Lord Mayor,</hi> and told him that he had a <hi>Writ</hi> against him, at the Suit of Mr. <hi>Papillon,</hi> and another at the Suit of Mr. <hi>Dubois,</hi> and pray<g ref="char:EOLhyphen"/>ed him, that he would please to give an Appearance, and that upon his refusing to do it, his Lordship went in his own <hi>Coach</hi> to the <hi>Coro<g ref="char:EOLhyphen"/>ner</hi>'s House.</p>
+               <p>Mr. <hi>Serjeant Maynard</hi> then offered to the Jury, That my <hi>Lord Mayor,</hi> if he mistake in his Office, and doth not that which belongs to him to do, he is as much subject to the Process of the Law, as any private Citizen; That the Question they were to try, was, Whether Mr. <hi>Pa<g ref="char:EOLhyphen"/>pillon</hi> had probable Cause of Action against the <hi>Mayor;</hi> That the Case was thus, Upon the Contest about the Choice of <hi>Sheriffs,</hi> the Judges of the Election, certify to the Mayor and Aldermen, that Mr. <hi>Papillon</hi> had most Suffrages, thereupon he conceived himself rightly chosen; and that sure<g ref="char:EOLhyphen"/>ly gave him a probable Cause to proceed upon it; and if so, no Doubt he might well take the Course he did: Here is no Arrest without Le<g ref="char:EOLhyphen"/>gal Process; nay their own Witnesses say, there was an Offer to take an <hi>Appearance,</hi> without an Arrest; but that being refused, the <hi>Process of the Law was executed</hi>—He had no other Course to take, but to bring his <hi>Action</hi> against the Mayor: This course he took, Here is a great Deal of Stir made, that a <hi>Coroner</hi> of <hi>London</hi> should Arrest my Lord Mayor; he might do it lawfully; doth this prove, that this was <hi>maliciously</hi> done? Have they proved any particular Discontent and Malice that was between them?
+<pb n="4" facs="tcp:205735:3"/>No, the quite contrary appears: <hi>Did he violently arrest him?</hi> That he might do, and no Offence in Law; no, but he did it not, but only de<g ref="char:EOLhyphen"/>sired from Time to Time, that he would give an Appearance, that would have put a Conclusion to this Dispute—Besides, the <hi>Sheriffs</hi> having made a Return of Mr. <hi>Papillon</hi>'s Election to the <hi>Aldermen;</hi> they being of another Opinion, <hi>gave Order, that those who thought themselves aggrieved should take their Remedy at Law,</hi> which has been pursued in the Regular Course the Law prescribes—Here is a great Noise of <hi>Damage,</hi> and <hi>Disrepute,</hi> and <hi>Disgrace;</hi> and the <hi>Plaintiff</hi> has been pleased to reckon his own <hi>Damages</hi> at 10000 <hi>l.</hi>—We say he has sustained no Damage—<hi>The very Court of</hi> Aldermen and the Lord Mayor, bidding them take their Course at Law; We, sure shall not be punished for doing it.</p>
+               <p>Mr. <hi>Williams</hi> then insisted, that the <hi>Plaintiff</hi>'s Action must fall, if they shewed that it was not Malitious, and that Mr. <hi>Papillon had a probable Cause to bring his Action.</hi>
+               </p>
+               <p>Mr. <hi>Ward</hi> then observed to the <hi>Jury,</hi> that Mr. <hi>Papillon</hi> had been greatly reflected upon; That by way of <hi>Crimination</hi> against him, there was a most unjust Reflection, as if he were privy to an intended <hi>Insur<g ref="char:EOLhyphen"/>rection</hi> and <hi>Conspiracy</hi> against the <hi>King</hi>'s Life; and procured the Mayor to be Arrested, to promote an <hi>Insurrection;</hi> That this was only insinuated for <hi>Reflection</hi> sake, and not one Word of any such thing proved: He then added, that the Case before them depended upon this Point; <hi>Whether Mr.</hi> Papillon <hi>had a reasonable Cause or probable Ground to bring an Action against Sir</hi> William Pritchard; If so, all that was desired, was only an <hi>Appearance;</hi> but that would not be given—That the <hi>Jury</hi> had been told of the great Dangers in the Case, as to the Infringement of the <hi>Peace, &amp;c.</hi> but had Sir <hi>William-Pritchard</hi> complyed with the reasonable and oft repeated Request, of ordering of an <hi>Appearance,</hi> the <hi>Peace of the</hi> King<g ref="char:EOLhyphen"/>dom <hi>had been in no Peril from such a Design as this Arrest.</hi>
+               </p>
+               <p>Here the <hi>Chief Justice</hi> told Mr. <hi>Ward, (a Person never esteemed to come short of</hi> Sir George Jefferies, <hi>in any thing but Insolence and Impudence</hi>) That he had made a long Speech, and nothing at all to the purpose; and that he did not understand what he was about; and that made him ramble in his Discourse; and did then, in a raving and most impetuous manner, repeat his Expression six or seven times, that Mr. <hi>Ward</hi> did not understand the Business.</p>
+               <p>Mr. <hi>Brome</hi> the <hi>Coroner</hi> (being called to give an Account of the manner of his Arresting my <hi>Lord Mayor</hi>) testified; That he had a former Writ in <hi>Hillary Term,</hi> and went to my <hi>Lord Mayor,</hi> and desired him that he would appear to it, but he said, <hi>he would give no Appearance:</hi> That he gave his <hi>Lordship</hi> a Week or Ten Days to consider of it; and then waited
+<pb n="5" facs="tcp:205735:3"/>upon him at the <hi>Court of Aldermen,</hi> and had his Answer, <hi>That he had considered of it, and would give no Appearance.</hi>
+               </p>
+               <p>That a little before <hi>Easter Term,</hi> the <hi>Attorney</hi> brought him another <hi>Writ,</hi> and threatned to complain to the Court of him, for neglecting the Execution of Two of the <hi>King</hi>'s <hi>Writs:</hi> That thereupon he went again to my <hi>Lord,</hi> and told him that the <hi>Writ</hi> was renewed, and he was pressed to make a Return; and desired, that his Lordship would please to give an Appearance; and that he told him he was ready to submit to the <hi>King</hi>'s <hi>Writ, but would not give an Appearance;</hi> and thereupon the Officers named in the Warrant, Arrested him by his Command.</p>
+               <p>Then Mr. <hi>Crisp</hi> the <hi>Common Serjeant</hi> (aiming at <hi>Alderman Cornish</hi>) falls to interrogating Mr. <hi>Brome,</hi> who were present at the Meeting, when the Arresting the <hi>Mayor</hi> was agreed upon? He having named Two or Three, the <hi>Common Serjeant</hi> further pressed him to name others; and then the <hi>Chief Justice</hi> explained the <hi>Common Serjeant</hi>'s Meaning, by demanding whether Mr. <hi>Cornish</hi> was there?</p>
+               <p>Alderman <hi>Cornish,</hi> and Mr. <hi>Serjeant</hi> testified, That Mr. <hi>Papillon</hi> and Mr. <hi>Dubois</hi> being at the <hi>Alderman</hi>'s House; their <hi>Attorney</hi> came to them, and told them, that he had addressed himself from Time to Time to my <hi>Lord Mayor,</hi> to get him to give an Appearance, but he would not; and that thereupon they told him, <hi>it was fit the matter should be brought to an Issue;</hi> and ordered him to get an Appearance if he could, and to remember that the <hi>Lord Mayor</hi> was the <hi>Chief Majestrate</hi> of the <hi>City;</hi> and that he should carry it with all imaginable Respect and Regard to him.</p>
+               <p>Here the <hi>Chief Justice</hi> and <hi>Attorney General,</hi> made long and extrava<g ref="char:EOLhyphen"/>gant Excursions, running upon <hi>Alderman Cornish,</hi> with Abundance of Questions, wholly foreign to the Matter in Question; and <hi>Jefferies</hi> told him, that he had as much Cause as any Man to remember the Manner of his own being chosen <hi>Sheriff, for several Reasons that he knew. [A plain Indication of what he designed against this honest</hi> Gentleman.] And then his Lord<g ref="char:EOLhyphen"/>ship added, that he only asked Things by the By, to satisfy the World what Sort of Men these are, that pretend to <hi>Saintship;</hi> and with his wont<g ref="char:EOLhyphen"/>ed Blustering Impudence, said, Do you think the <hi>Government</hi> will ever suffer it self, to be snivelled at, and overthrown By a <hi>Company</hi> of such <hi>Whining Fellows?</hi>—Do you think to sham <hi>People</hi> into Offices? No, <hi>I tell you, Villany was the Foundation of it, and Knavery the Superstructure—Neither</hi> Bethel, <hi>nor that very Fellow that stands there,</hi> Cornish, <hi>would have taken the Oaths and Sacrament, 'till they found it would contribute to the Design of subverting the</hi> Government; <hi>then these</hi> Rascals <hi>could qualify them<g ref="char:EOLhyphen"/>selves for an Office, only to put the</hi> Kingdom <hi>into a Flame.</hi>
+               </p>
+               <p>Mr. <hi>Gilbert Nelson</hi> then testified, that upon the holding up of the Hands, at the <hi>Election</hi> of <hi>Sheriffs</hi> the 24th of <hi>June</hi> 1682. there were up<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:205735:4"/>the View, most for Mr. <hi>Papillon,</hi> and Mr. <hi>Dubois;</hi> and that upon the casting up the <hi>Poll</hi> Books, there was the greatest Number for Mr. <hi>Papillon.</hi> Mr. <hi>Wightman</hi> added, that in the <hi>Poll</hi> Books, there were 2400 and odd, for Mr. <hi>Papillon</hi> and Mr. <hi>Dubois.</hi>
+               </p>
+               <p>Mr. <hi>Leonard Robinson</hi> added, that by the Hands, the Majority was much more for Mr. <hi>Papillon</hi> and Mr. <hi>Dubois,</hi> than for the other Two; and the <hi>Sheriffs</hi> did so declare their Opinion; and a Poll being demand<g ref="char:EOLhyphen"/>ed, and granted, after it was closed in the Evening, the <hi>Sheriffs</hi> declared the Numbers upon the <hi>Hustings;</hi> Mr. <hi>Papillon</hi> and Mr. <hi>Dubois</hi> had above Two Thousand, and Mr. <hi>North</hi> and Mr. <hi>Box</hi> some Hundreds under Two Thousand.</p>
+               <p>Mr. <hi>Baker</hi> testified, that the Action was brought by the Advice of Mr. <hi>Wallop,</hi> Mr. <hi>Pollexfen,</hi> and Mr. <hi>Thompson.</hi>
+               </p>
+               <p>Then the <hi>Chief Justice</hi> comes to sum up the Evidence, and after a most tedious Introduction, proceeds to discharge his Spleen thus. Come, <hi>Gen<g ref="char:EOLhyphen"/>tlemen, it is best to be plain;</hi> Tho' it is true, a Man may lawfully sue for such an Office, and it is no Offence, yet it looks somewhat extraordinary, 'tis for some strange Purpose or other — It is notoriously known, <hi>that for several Years the</hi> Government <hi>has been beset,</hi> and which is a baser Thing than ever was thought of, or acted in the highest Times of <hi>Vil<g ref="char:EOLhyphen"/>lany; the very Methods of</hi> Justice <hi>have been corrupted;</hi> and all to serve the main Design of subverting the <hi>Government.</hi>
+               </p>
+               <p>
+                  <hi>Gentlemen,</hi> this is so black a Wickedness, that no honest Man, that has any Sense of Loyalty, Religion, or common Justice; but must tremble at the very Thoughts of it: When we see such Fellows as are common Reproaches to the Government, shall get into Office, to make <hi>Ignoramus Juries</hi>—When Men begin to take Oaths to sanctify Villany, what shall we say? And all this you, all of you, Gentlemen, know to be true—Was it not more safe to conspire the Death of the King and his Brother, than to give the least Frown up<g ref="char:EOLhyphen"/>on one of these <hi>snivelling Saints?</hi> Did not we know, that Men were san<g ref="char:EOLhyphen"/>ctified to be <hi>Jury-men,</hi> that before, were never thought sit to be trusted with the common Society of honest Men?</p>
+               <p>Mr. <hi>Papillon</hi> knows all this to be true eminently: When pack'd Juries were grown to that Heighth, that when Seven or Eight Witnesses swore down-right <hi>Treason,</hi> the <hi>Traytor</hi> could not by these Men so much as be accused by an <hi>Indictment:</hi> To that Stupidity in Villany, were Things brought by these <hi>Fellows:</hi> So were the Proceedings in Courts of Justice tainted, that <hi>cropp'd Hair and a demure Look, were the best Signs of a good Evidence.</hi>
+               </p>
+               <p>
+                  <hi>Gentlemen,</hi> There was not a Pursuit of Right in this Case, It was a designed Piece of Villany, on purpose to affront the <hi>Government;</hi> nay,
+<pb n="7" facs="tcp:205735:4"/>to destroy it; and if he were Ten Thousand Times Mr. <hi>Papillon,</hi> I would tell him so.</p>
+               <p>It is plain, Gentlemen, that the Design from the Beginning to the End, was to cause a Tumult and Confusion in the City, in Order to put that damned hellish <hi>Conspiracy,</hi> for destroying the King and his Brother, and every Man, that was honest and loyal, in Execution: This, Gentlemen, is <hi>Plain English.</hi>
+               </p>
+               <p>We all know Mr. <hi>Papillon</hi> to be a wealthy Man; one that had ra<g ref="char:EOLhyphen"/>ther have minded his Affairs, than the expensive Office of <hi>Sheriff;</hi> but that something was to be done, to wreak a damned Malice and Revenge upon the Governmment—This I tell him openly, and let him and his Party make their Remarks upon it as they please — There was questionless a devilish Malice, fixed in his Heart and Mind; and he wanted an Opportunity to effect it, and he thought it best for his own Security, to take this course, and nothing else was in it.—Alack-a-day, (as Mr. <hi>Pilkington</hi> said) I am for the Preservation of the Liberties and Properties of the Subject; but I find the City is strangely run down, in their Rights and Priviledges, I will rather take a troublesome Office, than let all run thus, and immedately sets himself a <hi>Cock-a-hoop,</hi> as if there were none to take care of the City, but himself—He, and Mr. <hi>Bethel,</hi> and Mr. <hi>Cornish,</hi> forsooth, are the only Men of the Times, the Men; Men for the Liberties of the Subject, and the Rights of the City.</p>
+               <p>Gentlemen, the Government is infinitely concerned in this Case; that puts a Weight upon your Enquiry into the Damages; <hi>your Severity in this Case, will deter all People from entring into Clans and Cabals to affront Government.</hi>
+               </p>
+               <p>That I may not further nauseat the <hi>Reader</hi> with the foul Language and venomous Malice of this <hi>Insolent, Arrogant</hi> and <hi>intolerable Slanderer,</hi> I shall transcribe no more of his virulent Discourse, tho' he run on to a strange Length, at a most wicked and infamous Rate of Falshood and Defamations, against the best Men of the <hi>City,</hi> without any manner of Colour for the Truth of what he said.</p>
+               <p>The Jury thus directed, found for the <hi>Plaintiff,</hi> and assessed Damages to 10000 <hi>l.</hi>
+               </p>
+               <p>
+                  <hi>The</hi> Chief Justice <hi>said,</hi> Gentlemen, <hi>you seem to be Persons that have some Sense upon you, and I think have given a good Verdict, and are to be grealy commended for it.</hi>
+               </p>
+               <p>
+                  <hi>By this extravagant and most unrighteous Verdict, was this upright and wise Citizen, Mr.</hi> Papillon, <hi>drove into</hi> Exile, <hi>'till Heaven vouchsafed him, with the Nation, a most miraculous and happy Deliverance by the Glorious Ʋnderta<g ref="char:EOLhyphen"/>king of our now</hi> Sovereign, <hi>then</hi> Prince <hi>of</hi> Orange.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, <hi>Anno Angliae Salutis primo,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
